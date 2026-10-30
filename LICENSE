@@ -14,8 +14,9 @@ The WaveBridge source code is not published and is not covered by any
 open-source license on this page.
 
 WaveBridge includes third-party open-source components, each under its own
-license (MIT, Apache-2.0, BSD, ISC, MPL-2.0); those licenses apply to those
-components only.
+license (MIT, Apache-2.0, BSD, ISC, MPL-2.0, Unicode, OFL); those licenses apply to those
+components only. They are listed, with their license texts, in
+THIRD-PARTY-NOTICES.md.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM,

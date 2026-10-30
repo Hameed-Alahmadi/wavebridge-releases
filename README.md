@@ -89,4 +89,5 @@ microphone.
 ## License
 
 © 2026 Abdulhameed Alahmadi. All rights reserved. WaveBridge is free to download and use; the
-source code is not published. See [LICENSE](LICENSE).
+source code is not published. See [LICENSE](LICENSE), and
+[THIRD-PARTY-NOTICES](THIRD-PARTY-NOTICES.md) for the open-source components inside it.

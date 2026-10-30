@@ -85,3 +85,8 @@ Once installed, WaveBridge updates itself from this page.
 [VB-Cable](https://vb-audio.com/Cable/) (run `VBCABLE_Setup_x64.exe` as administrator, then
 restart). WaveBridge finds the cable by itself; in Discord or a game pick **CABLE Output** as the
 microphone.
+
+## License
+
+© 2026 Abdulhameed Alahmadi. All rights reserved. WaveBridge is free to download and use; the
+source code is not published. See [LICENSE](LICENSE).
